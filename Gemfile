@@ -65,7 +65,7 @@ group :cable do
   gem "puma", require: false
 
   gem "hiredis", require: false
-  gem "redis", "~> 4.0", require: false
+  gem "redis", "~> 5.0", require: false
 
   gem "redis-namespace"
 
